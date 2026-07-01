@@ -121,7 +121,7 @@
       overflow: hidden;
       background:
         linear-gradient(rgba(0,0,0,0.58), rgba(0,0,0,0.42)),
-        url("../background.avif") center/cover no-repeat;
+        url("./background.avif") center/cover no-repeat;
     }
 
     .hero::before {
@@ -403,7 +403,7 @@
       overflow: hidden;
       background:
         linear-gradient(180deg, rgba(8,17,31,0.12), rgba(8,17,31,0.42)),
-        url("../photo_5.avif") center/cover no-repeat;
+        url("./photo_5.avif") center/cover no-repeat;
       box-shadow: 0 24px 56px rgba(9,22,39,0.16);
     }
 
